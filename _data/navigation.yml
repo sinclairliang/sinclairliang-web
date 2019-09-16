@@ -33,10 +33,10 @@ header:
       ko-KR   : *KO
     url: /about.html
 
-    - titles:
+  - titles:
       en      : &EN       THINGS I LOVE
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-    url: /about.html
+    url: /favourite.html
