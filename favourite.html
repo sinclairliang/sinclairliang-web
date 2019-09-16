@@ -6,6 +6,8 @@ titles:
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
+
+permalink: /favourite/
 ---
 
 <!DOCTYPE html>
@@ -23,7 +25,7 @@ titles:
   </head>
   <body>
     <div class="root" data-is-touch="false">
-      <p>Hello World</p>
+      {{ content }}
     </div>
     <script>
       {%- include scripts/common.js -%}
