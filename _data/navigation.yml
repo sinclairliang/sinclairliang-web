@@ -39,4 +39,4 @@ header:
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-    url: _layouts/favourite.html
+    url: _layouts/favourite
