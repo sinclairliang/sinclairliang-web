@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: landing
 titles:
   en      : &EN       About
   en-GB   : *EN
