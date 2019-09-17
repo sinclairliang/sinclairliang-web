@@ -1,0 +1,65 @@
+---
+layout: article
+titles:
+      en      : &EN       Papers
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+show_title: false
+---
+<!DOCTYPE html>
+{%- include snippets/get-lang.html -%}
+<html lang="{{ __return }}">
+  <head>
+    {%- include analytics.html -%}
+    <script>
+      {%- include scripts/utils/utils.js -%}
+      {%- include scripts/lib/throttle.js -%}
+      {%- include scripts/lib/lazyload.js -%}
+    </script>
+  </head>
+  <body>
+    <div class="root" data-is-touch="false">
+    <h2 style="text-align: center; white-space: pre-wrap; color:    #52658f;">Some of My Papers</h2>
+    </div>
+    <div class="grid-container">
+      <div class="grid grid--px-3">
+
+    <div class="cell cell--12">
+      <a href="https://www.keepandshare.com/doc15/19522/of-personal-identity-pdf-60k?da=y"><h3>Of Personal Identity</h3></a>
+      <p>
+        Essay talks about constants in Identity in this ever evolving reality.
+      </p>
+      <div class="button button--primary button--rounded button--xs">Legal Philosophy</div>
+      <div class="button button--info button--rounded button--xs">John Locke</div>
+      <div class="button button--success button--rounded button--xs">David Hume</div>
+    </div>
+
+    <div class="cell cell--12">
+      <a href="https://www.keepandshare.com/doc15/19523/on-perfection-pdf-48k?da=y"><h3>On Perfection</h3></a>
+      <p>
+        Essay talks about Perfection in Lebniz's monadology framwork.
+      </p>
+      <div class="button button--info button--rounded button--xs">Lebniz</div>
+      <div class="button button--secondary button--rounded button--xs">René Descartes</div>
+      <div class="button button--success button--rounded button--xs">Free-Will</div>
+    </div>
+
+
+    <div class="cell cell--12">
+      <a href="https://www.keepandshare.com/doc15/19500/research-paper-pdf-118k?da=y"><h3>Bridging Eastern and Western philosophy</h3></a>
+      <p>
+        A research paper talks about connections and commonalities between Western and Eastern philosophy, focusing on Tao Te Ching and Pre-Socratic philosopher Heraclitus. Mainly on Ontology and Metaphysics.
+      </p>
+      <div class="button button--success button--rounded button--xs">Heraclitus</div>
+      <div class="button button--primary button--rounded button--xs">Lao Tzu</div>
+      <div class="button button--info button--rounded button--xs">Metaphysics</div>
+      <div class="button button--warning button--rounded button--xs">Ontology</div>
+    </div>
+
+    <script>
+      {%- include scripts/common.js -%}
+    </script>
+  </body>
+</html>

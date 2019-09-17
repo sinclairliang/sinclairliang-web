@@ -42,6 +42,14 @@ header:
     url: /projects.html
 
   - titles:
+      en      : &EN       Papers
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+    url: /papers.html
+
+  - titles:
       en      : &EN       THINGS I LOVE
       en-GB   : *EN
       en-US   : *EN
