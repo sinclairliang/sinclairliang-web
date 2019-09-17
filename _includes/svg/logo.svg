@@ -1,8 +1,13 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="24px" height="24px" viewBox="0 0 24 24">
-<style type="text/css">
-	.st0{fill:#515151;}
-</style>
-<path class="st0" d="M1.7,22.3c5.7-5.7,11.3-5.7,17,0c3.3-3.3,3.5-5.3,0.8-6c2.7,0.7,3.5-1.1,2.3-5.6s-3.3-5.2-6.3-2.1
-	c3-3,2.3-5.2-2.1-6.3S7,1.8,7.7,4.6C7,1.8,5,2.1,1.7,5.3C7.3,11,7.3,16.7,1.7,22.3"/>
+<svg width="462" height="462" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m264,66l33,0l0,99l-33,0l0,-99z"/>
+  <path id="svg_2" d="m457.166,103.834l-99,-99c-3.094,-3.094 -7.283,-4.834 -11.666,-4.834l-330,0c-9.12,0 -16.5,7.38 -16.5,16.5l0,429c0,9.12 7.38,16.5 16.5,16.5l429,0c9.12,0 16.5,-7.38 16.5,-16.5l0,-330c0,-4.383 -1.741,-8.572 -4.834,-11.666zm-325.166,-70.834l198,0l0,165l-198,0l0,-165zm297,396l-396,0l0,-396l66,0l0,181.5c0,9.12 7.38,16.5 16.5,16.5l231,0c9.12,0 16.5,-7.38 16.5,-16.5l0,-158.168l66,66l0,306.668z"/>
+  <text font-style="italic" xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="24" id="svg_3" y="281.4375" x="66" stroke-width="0" stroke="#000" fill="#000000">Sinclair Liang</text>
+ </g>
 </svg>
