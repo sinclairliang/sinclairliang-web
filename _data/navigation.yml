@@ -34,6 +34,14 @@ header:
     url: /about.html
 
   - titles:
+      en      : &EN       Projects
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+    url: /projects.html
+
+  - titles:
       en      : &EN       THINGS I LOVE
       en-GB   : *EN
       en-US   : *EN
