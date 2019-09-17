@@ -6,5 +6,29 @@ titles:
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-
 ---
+<!DOCTYPE html>
+{%- include snippets/get-lang.html -%}
+<html lang="{{ __return }}">
+  <head>
+    {%- include analytics.html -%}
+    <script>
+      {%- include scripts/utils/utils.js -%}
+      {%- include scripts/lib/throttle.js -%}
+      {%- include scripts/lib/lazyload.js -%}
+    </script>
+  </head>
+  <body>
+    <div class="root" data-is-touch="false">
+      <h2 style="text-align: center; white-space: pre-wrap; color:    #52658f;">SEPTEMBER LOVES</h2>
+    </div>
+    <div class="grid-container">
+      <div class="grid grid--px-3">
+    <div class="cell cell--4">
+    </div>
+
+    <script>
+      {%- include scripts/common.js -%}
+    </script>
+  </body>
+</html>
