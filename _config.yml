@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : Sinclair Liang
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  Sinclair Liang's Personal Website
 
 
 ## => Language and Timezone
@@ -48,7 +48,7 @@ author:
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  linkedin  : https://www.linkedin.com/in/sinclair-liang-21b6278b/
   github    : https://github.com/sinclairliang
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
@@ -173,8 +173,8 @@ analytics:
 
   ## Google Analytics
   google:
-    tracking_id : # Google Analytics id for the site
-    anonymize_ip: false # Anonymize IP tracking for Analytics
+    tracking_id : UA-126214763-1 # Google Analytics id for the site
+    anonymize_ip: true # Anonymize IP tracking for Analytics
 
 
 ## => Build
