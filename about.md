@@ -16,4 +16,6 @@ titles:
   ko      : &KO       소개
   ko-KR   : *KO
 key: page-about
+article_header: 
+  align: center
 ---
