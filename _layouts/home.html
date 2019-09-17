@@ -25,7 +25,8 @@ articles:
   show_info: true
 ---
 <div class="layout--home">
-  {%- include paginator.html -%}
+  {% comment %} {%- include paginator.html -%} {% endcomment %}
+  <h2>Hello World</h2>
 </div>
 <script>
   {%- include scripts/home.js -%}
