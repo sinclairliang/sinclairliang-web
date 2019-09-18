@@ -5,6 +5,9 @@ tags: Life
 
 <h4> My days in the UK are gradually coming to an end.</h4>
 
+[![Snapseed-6.jpg](https://i.postimg.cc/nh5vxHVt/Snapseed-6.jpg)](https://postimg.cc/ts31tGVr)
+
+
 It is not my first time being in the UK but it is probably the only time I felt I did not enough during my stay.
 
 
