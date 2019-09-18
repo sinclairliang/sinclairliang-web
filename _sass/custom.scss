@@ -14,4 +14,24 @@
   position: relative;
 }
 
+blockquote {
+  color: rgba(0,0,0,.7);
+  border: 2px solid #fed356;
+  background: #fff8e4;
+  border-radius: 4px;
+  font-weight: 500;
+  margin: 1.5rem 0;
+  padding: 1.5rem;
+  line-height: 1.6;
+  font-size: 1rem;
+}
+
+blockquote {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 40px;
+  margin-inline-end: 40px;
+}
+
 /* end custom scss snippet */
