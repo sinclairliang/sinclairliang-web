@@ -5,10 +5,10 @@ tags: Life
 
 <h4> My days in the UK are gradually coming to an end.</h4>
 
-<p align="center">
+<!-- <p align="center">
 [![Snapseed-6.jpg](https://i.postimg.cc/nh5vxHVt/Snapseed-6.jpg)](https://postimg.cc/ts31tGVr)
 
-</p>
+</p> -->
 
 
 <div style="text-align:center">
