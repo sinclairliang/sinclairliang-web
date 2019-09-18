@@ -30,7 +30,7 @@ header:
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-    url: /projects.html
+    url: /projects
 
   - titles:
       en      : &EN       Papers
@@ -38,7 +38,7 @@ header:
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-    url: /papers.html
+    url: /papers
 
   - titles:
       en      : &EN       THINGS I LOVE
@@ -46,4 +46,4 @@ header:
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-    url: /favourite.html
+    url: /favourite
