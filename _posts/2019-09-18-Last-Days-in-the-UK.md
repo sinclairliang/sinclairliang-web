@@ -10,6 +10,12 @@ tags: Life
 
 </p>
 
+
+<div style="text-align:center">
+<img src="https://i.postimg.cc/nh5vxHVt/Snapseed-6.jpg" />
+</div>
+
+
 It is not my first time being in the UK but it is probably the only time I felt I did not enough during my stay.
 
 
