@@ -1,4 +1,9 @@
 /* start custom scss snippet */
+.quotations {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .quotations .quotation {
   padding: 1rem;
   margin: 0 0 1rem;
@@ -12,6 +17,9 @@
   padding: 1rem 1rem 3.5rem!important;
   border-radius: 4px;
   position: relative;
+}
+.quotations .quotation {
+  padding: 2.5rem 2.5rem 4.5rem!important;
 }
 
 blockquote {
@@ -33,5 +41,13 @@ blockquote {
   margin-inline-start: 40px;
   margin-inline-end: 40px;
 }
+
+blockquote cite {
+  font-size: 2rem;
+}
+cite {
+  font-style: italic;
+}
+
 
 /* end custom scss snippet */
