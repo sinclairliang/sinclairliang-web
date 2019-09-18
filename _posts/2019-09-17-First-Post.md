@@ -3,7 +3,7 @@ title: First Post
 tags:
 ---
 
-Hello World!
+Hello World.
 
 <!--more-->
 
