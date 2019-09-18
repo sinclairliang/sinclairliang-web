@@ -1,7 +1,7 @@
 ---
 title: First Post
-tags:
 comments: true
+tags:
 ---
 
 Hello World.

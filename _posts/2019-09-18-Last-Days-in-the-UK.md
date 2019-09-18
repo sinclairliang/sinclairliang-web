@@ -1,5 +1,6 @@
 ---
 title: Last Few Days in the UK
+comments: true
 tags: Life
 ---
 
