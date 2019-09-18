@@ -1,3 +1,17 @@
 /* start custom scss snippet */
+.quotations .quotation {
+  padding: 1rem;
+  margin: 0 0 1rem;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: calc(50% - 2rem);
+  border-color: #5183f5;
+  background: #5183f5;
+  color: #fff;
+  box-shadow: 0 3px 13px rgba(0,0,0,.08), 0 2px 4px rgba(0,0,0,.08);
+  padding: 1rem 1rem 3.5rem!important;
+  border-radius: 4px;
+  position: relative;
+}
 
 /* end custom scss snippet */
