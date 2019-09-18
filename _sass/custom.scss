@@ -21,10 +21,10 @@
 .quotations .quotation {
   padding: 2.5rem 2.5rem 4.5rem!important;
   margin: 0 0 1rem;
-    margin-top: 0px;
-    margin-right: 0px;
+    margin-top: 1em;
+    margin-right: 1em;
     margin-bottom: 1rem;
-    margin-left: 0px;
+    margin-left: 1em;
 }
 
 blockquote {
@@ -48,7 +48,12 @@ blockquote {
 }
 
 blockquote cite {
-  font-size: 2rem;
+  display: block;
+  margin-top: 1rem;
+  font-size: 1.5rem;
+  text-align: right;
+  font-family: -apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: rgba(0,0,0,.4);
 }
 cite {
   font-style: italic;
