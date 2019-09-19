@@ -84,12 +84,16 @@ titles:
           </h4>
           <form action="https://formspree.io/sinclairliang@gmail.com" method="POST">
             <div class="field first-name">
-                  <label class="caption"><input class="field-element field-control" name="fname" x-autocompletetype="given-name" type="text" spellcheck="false" maxlength="30" data-title="First">
-                  First Name</label>
+                  <label class="caption">
+                  <input class="field-element field-control" name="fname" x-autocompletetype="given-name" type="text" spellcheck="false" maxlength="30" data-title="First">
+                  First Name
+                  </label>
             </div>
-            <div style="width: 50%">
-              <input type="email" name="email" placeholder="Your email">
-            </div>
+            <div id="email-yui_3_17_2_1_1525112745754_1282" class="form-item field email required">
+                <label class="title" for="email-yui_3_17_2_1_1525112745754_1282-field">Email Address <span class="required">*</span></label>
+                
+                <input class="field-element" id="email-yui_3_17_2_1_1525112745754_1282-field" name="email" type="email" autocomplete="email" spellcheck="false">
+              </div>
             <textarea name="message" placeholder="Test Message"></textarea>
             <button type="submit">Submit</button>
           </form>
