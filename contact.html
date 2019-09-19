@@ -82,22 +82,25 @@ titles:
                     text-transform: uppercase;">
             PLEASE PROVIDE ANY NECESSARY CONTACT INFO
           </h4>
-            <form action="">
-                <div class="clearfix">
-                  <input class="col2 first" type="text" placeholder="First Name" />
-                  <input class="col2 last" type="text" placeholder="Last Name" />
+            <div class="container">
+              <h3>Contact Form</h3>
+              <form action="#" name="contact_form">
+                <label for="first_name">First Name</label>
+                <input name="first_name" type="text" required placeholder="John"/>
+                <br>
+                <label for="last_name">Last Name</label>
+                <input name="last_name" type="text" required placeholder="Doe"/>
+                <br>
+                <label for="email">Email</label>
+                <input name="email" type="email" required placeholder="you@domain.com"/>
+                <br>
+                <label for="message">Message</label><br>
+                <textarea name="message" cols="30" rows="10" placeholder="Enter your message here ..." required> </textarea>
+                <div class="center">
+                  <input type="submit" value="Submit">
                 </div>
-                <div class="clearfix">
-                  <input class="col2 first" type="Email" placeholder="Email" />
-                  <input class="col2 last" type="text" placeholder="Contact Number" />
-                </div>
-                <div class="clearfix">
-                  <textarea name="textarea" id="" cols="30" rows="7">
-              Your message here...</textarea
-                  >
-                </div>
-                <div class="clearfix"><input type="submit" value="Send" /></div>
-            </form>
+              </form>	
+            </div>
 
 
         </div>

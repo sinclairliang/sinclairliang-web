@@ -77,191 +77,88 @@ cite {
   right: 2.5rem;
 }
 
+/* Importing the Roboto font from Google Fonts. */
+@import url("https://fonts.googleapis.com/css?family=Roboto:400");
+
+/* Set font of all elements to 'Roboto' */
 * {
-  margin: 0px;
-  padding: 0px;
-}
-*,
-*:after,
-*:before {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -ms-box-sizing: border-box;
-  -o-box-sizing: border-box;
-  box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
 }
 
-.clearfix:before,
-.clearfix:after {
-  display: table;
-  content: "";
-}
-.clearfix:after {
-  clear: both;
+/* Remove outline of all elements on focus */
+*:focus {
+	outline: 0;
 }
 
 body {
-  background: #ffffff;
-  color: #333;
-  font-weight: normal;
-  font-size: 1em;
-  font-family: "Roboto", Arial, sans-serif;
+	background: #263238;  /* Set background color to #263238*/
 }
 
-input:focus,
-textarea:focus,
-keygen:focus,
-select:focus {
-  outline: none;
-}
-::-moz-placeholder {
-  color: #666;
-  font-weight: 300;
-  opacity: 1;
+h3 {
+	text-align: center;
 }
 
-::-webkit-input-placeholder {
-  color: #666;
-  font-weight: 300;
-}
-
-/* Contact Form Styling */
+/* Add styles to 'container' class */
 .container {
-  padding: 0 50px 70px;
-}
-.textcenter {
-  text-align: center;
-}
-.section1 {
-  text-align: center;
-  display: table;
-  width: 100%;
-}
-.section1 .shtext {
-  display: block;
-  margin-top: 20px;
-}
-.section1 .seperator {
-  border-bottom: 1px solid #a2a2a2;
-  width: 35px;
-  display: inline-block;
-  margin: 20px;
+	padding: 12px 24px 24px 24px;
+	margin: 48px 12px;
+	background: #E3F2FD;
+	border-radius: 4px;
 }
 
-.section1 h1 {
-  font-size: 40px;
-  color: #a44dd8;
-  font-weight: normal;
+/* Add styles to 'label' selector */
+label {
+	font-size: 0.85em;
+	margin-left: 12px;
 }
 
-.section2 {
-  width: 1200px;
-  margin: 25px auto;
-}
-.section2 .col2 {
-  width: 48.71%;
-}
-.section2 .col2.first {
-  float: left;
-}
-.section2 .col2.last {
-  float: right;
-}
-.section2 .col2.column2 {
-  padding: 0 30px;
-}
-.section2 span.collig {
-  color: #a2a2a2;
-  margin-right: 10px;
-  display: inline-block;
-}
-.section2 .sec2addr {
-  display: block;
-  line-height: 26px;
-}
-.section2 .sec2addr p:first-child {
-  margin-bottom: 10px;
-}
-.section2 .sec2contactform input[type="text"],
-.section2 .sec2contactform input[type="email"],
-.section2 .sec2contactform textarea {
-  padding: 18px;
-  border: 0;
-  background: #ededed;
-  margin: 7px 0;
-}
-.section2 .sec2contactform textarea {
-  width: 100%;
-  display: block;
-  color: #666;
-  resize: none;
-}
-.section2 .sec2contactform input[type="submit"] {
-  padding: 15px 40px;
-  color: #fff;
-  border: 0;
-  background: #a44dd8;
-  font-size: 16px;
-  text-transform: uppercase;
-  margin: 7px 0;
-  cursor: pointer;
-}
-.section2 .sec2contactform h3 {
-  font-weight: normal;
-  margin: 20px 0;
-  margin-top: 30px;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 19px;
-  color: #a44dd8;
-}
-
-/* @media querries */
-
-@media only screen and (max-width: 1266px) {
-  .section2 {
+/* Add styles to 'input' and 'textarea' selectors */
+input[type=text],input[type=email], textarea {
     width: 100%;
-  }
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
 }
-@media only screen and (max-width: 960px) {
-  .container {
-    padding: 0 30px 70px;
-  }
-  .section2 .col2 {
-    width: 100%;
-    display: block;
-  }
-  .section2 .col2.first {
-    margin-bottom: 10px;
-  }
-  .section2 .col2.column2 {
-    padding: 0;
-  }
-  body .sec2map {
-    height: 250px !important;
-  }
+
+/* Add styles to show 'focus' of selector */
+input[type=text]:focus,input[type=email]:focus, textarea:focus {
+	border: 1px solid green;
 }
-@media only screen and (max-width: 768px) {
-  .section2 .sec2addr {
-    font-size: 14px;
-  }
-  .section2 .sec2contactform h3 {
-    font-size: 16px;
-  }
-  .section2 .sec2contactform input[type="text"],
-  .section2 .sec2contactform input[type="email"],
-  .section2 .sec2contactform textarea {
-    padding: 10px;
-    margin: 3px 0;
-  }
-  .section2 .sec2contactform input[type="submit"] {
-    padding: 10px 30px;
-    font-size: 14px;
-  }
+
+/* Add styles to the submit button */
+input[type=submit] {
+	background: #64B5F6;
+	margin: 0 auto;
+	outline: 0;
+	color: white;
+	border: 0;
+	padding: 12px 24px;
+	border-radius: 4px;
+	transition: all ease-in-out 0.1s;
+	position: relative;
+	display: inline-block;
+	text-align: center;
 }
-@media only screen and (max-width: 420px) {
-  .section1 h1 {
-    font-size: 28px;
-  }
+
+/* Add styles for 'focus' property */
+input[type=submit]:focus {
+	background: #A5D6A7;
+	color: whitesmoke;
+}
+
+/* Style 'hover' property */
+input[type=submit]:hover {
+	background: #2196F3;
+}
+
+/* Align items to center of the 'div' with the class 'center' */
+.center {
+	text-align: center;
 }
 
 /* end custom scss snippet */
