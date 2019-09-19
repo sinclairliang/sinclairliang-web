@@ -81,10 +81,6 @@ cite {
 @import url("https://fonts.googleapis.com/css?family=Roboto:400");
 
 /* Set font of all elements to 'Roboto' */
-* {
-	font-family: 'Roboto', sans-serif;
-	font-weight: 400;
-}
 
 /* Remove outline of all elements on focus */
 *:focus {
@@ -117,7 +113,7 @@ label {
 
 /* Add styles to 'input' and 'textarea' selectors */
 input[type=text],input[type=email], textarea {
-    width: 100%;
+    width: 60%;
     padding: 12px;
     border: 1px solid #ccc;
     border-radius: 4px;
