@@ -20,7 +20,7 @@ titles:
       {%- include scripts/lib/throttle.js -%}
       {%- include scripts/lib/lazyload.js -%}
     </script>
-    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    {% comment %} <script src="https://www.google.com/recaptcha/api.js" async defer></script> {% endcomment %}
   </head>
   <body>
     <div class="root" data-is-touch="false">
@@ -85,7 +85,13 @@ titles:
           </h4>
             <div class="container">
               <form method="post" action="https://submit-form.com/L19d8AMHNezwaeodCvXv_" name="contact_form" style="padding-right: 20px;">
-              
+                <input
+                  type="checkbox"
+                  name="_honeypot"
+                  style="display:none"
+                  tabindex="-1"
+                  autocomplete="off"
+                />
                 <label for="first_name">First Name</label>
                 <input name="first_name" type="text" required placeholder=""/>
                 <br>
@@ -97,8 +103,8 @@ titles:
                 <br>
                 <label for="message">What's going on?</label><br>
                 <textarea name="message" cols="30" rows="10" placeholder="Enter your message here ..." required> </textarea>
-                <div class="g-recaptcha" data-sitekey="6LdSYLkUAAAAADkK1ZVJgdBVcEHq1lE02W3IUfvD"></div>
                 <div class="center">
+                  {% comment %} <div class="g-recaptcha" data-sitekey="6LdSYLkUAAAAADkK1ZVJgdBVcEHq1lE02W3IUfvD"></div> {% endcomment %}
                   <input type="submit" value="Submit">
                 </div>
               </form>	
