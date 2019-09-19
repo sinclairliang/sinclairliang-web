@@ -134,7 +134,8 @@ input[type=text]:focus,input[type=email]:focus, textarea:focus {
 
 /* Add styles to the submit button */
 input[type=submit] {
-	background: #64B5F6;
+  color: #474747;
+  background-color: transparent;
 	margin: 0 auto;
 	outline: 0;
 	color: white;
