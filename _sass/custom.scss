@@ -1,4 +1,8 @@
 /* start custom scss snippet */
+body {
+  font-family: Arial,Helvetica,sans-serif;
+}
+
 .quotations {
   display: flex;
   flex-wrap: wrap;
@@ -63,10 +67,6 @@ cite {
   position: absolute;
   bottom: 1.5rem;
   right: 2.5rem;
-}
-
-button {
-  color: #002f61;
 }
 
 
