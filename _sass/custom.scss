@@ -1,6 +1,6 @@
 /* start custom scss snippet */
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size: 16px;
@@ -84,22 +84,22 @@ cite {
 
 /* Remove outline of all elements on focus */
 *:focus {
-	outline: 0;
+  outline: 0;
 }
 
 body {
-	background: #263238;  /* Set background color to #263238*/
+  background: #263238; /* Set background color to #263238*/
 }
 
 h3 {
-	text-align: center;
+  text-align: center;
 }
 
 /* Add styles to 'container' class */
 .container {
-	padding: 12px 24px 24px 24px;
-	margin: 48px 12px;
-	// background: #E3F2FD;
+  padding: 12px 24px 24px 24px;
+  margin: 48px 12px;
+  // background: #E3F2FD;
   border-radius: 4px;
   margin-left: 0px;
   padding-left: 0px;
@@ -107,52 +107,56 @@ h3 {
 
 /* Add styles to 'label' selector */
 label {
-	font-size: 0.85em;
-	margin-left: 12px;
+  font-size: 0.85em;
+  margin-left: 12px;
 }
 
 /* Add styles to 'input' and 'textarea' selectors */
-input[type=text],input[type=email], textarea {
-    width: 100%;
-    padding: 12px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-sizing: border-box;
-    margin-top: 6px;
-    margin-bottom: 16px;
-    resize: vertical;
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
 }
 
 /* Add styles to show 'focus' of selector */
-input[type=text]:focus,input[type=email]:focus, textarea:focus {
-	border: 1px solid #52658f;
+input[type="text"]:focus,
+input[type="email"]:focus,
+textarea:focus {
+  border: 1px solid #52658f;
 }
 
 /* Add styles to the submit button */
-input[type=submit] {
+input[type="submit"] {
   background-color: transparent;
   color: #474747;
-	margin: 0 auto;
-	outline: 0;
-	border: 0;
-	padding: 12px 24px;
+  margin: 0 auto;
+  outline: 0;
+  border: 0;
+  padding: 12px 24px;
   // border-radius: 4px;
   border-width: 2px;
   border-style: solid;
-	transition: all ease-in-out 0.1s;
-	position: relative;
-	display: inline-block;
-	text-align: center;
+  transition: all ease-in-out 0.1s;
+  position: relative;
+  display: inline-block;
+  text-align: center;
 }
 
 /* Add styles for 'focus' property */
-input[type=submit]:focus {
-	background: #A5D6A7;
-	color: whitesmoke;
+input[type="submit"]:focus {
+  background: #a5d6a7;
+  color: whitesmoke;
 }
 
 /* Style 'hover' property */
-input[type=submit]:hover {
+input[type="submit"]:hover {
   background: #474747;
   color: white;
 }
@@ -160,22 +164,114 @@ input[type=submit]:hover {
 button1 {
   background-color: transparent;
   color: #474747;
-	margin: 0 auto;
-	outline: 0;
-	border: 0;
-	padding: 12px 24px;
+  margin: 0 auto;
+  outline: 0;
+  border: 0;
+  padding: 12px 24px;
   // border-radius: 4px;
   border-width: 2px;
   border-style: solid;
-	transition: all ease-in-out 0.1s;
-	position: relative;
-	display: inline-block;
-	text-align: center;
+  transition: all ease-in-out 0.1s;
+  position: relative;
+  display: inline-block;
+  text-align: center;
 }
 
 /* Align items to left of the 'div' with the class 'left' */
 .left {
-	text-align: left;
+  text-align: left;
+}
+
+//=== Drawing effect
+
+@mixin btn-border-drawing(
+  $color: #ccc,
+  $hover: black,
+  $width: 2px,
+  $vertical: top,
+  $horizontal: left,
+  $duration: 0.25s
+) {
+  box-shadow: inset 0 0 0 $width $color;
+  color: $color;
+  transition: color $duration $duration/3;
+  position: relative;
+
+  &::before,
+  &::after {
+    border: 0 solid transparent;
+    box-sizing: border-box;
+    content: "";
+    pointer-events: none;
+    position: absolute;
+    width: 0;
+    height: 0;
+
+    #{$vertical}: 0;
+    #{$horizontal}: 0;
+  }
+
+  &::before {
+    $h-side: if($horizontal == "left", "right", "left");
+
+    border-#{$vertical}-width: $width;
+    border-#{$h-side}-width: $width;
+  }
+
+  &::after {
+    $v-side: if($vertical == "top", "bottom", "top");
+
+    border-#{$v-side}-width: $width;
+    border-#{$horizontal}-width: $width;
+  }
+
+  &:hover {
+    color: $hover;
+
+    &::before,
+    &::after {
+      border-color: $hover;
+      transition: border-color 0s, width $duration, height $duration;
+      width: 100%;
+      height: 100%;
+    }
+
+    &::before {
+      transition-delay: 0s, 0s, $duration;
+    }
+
+    &::after {
+      transition-delay: 0s, $duration, 0s;
+    }
+  }
+}
+
+.draw-border {
+  @include btn-border-drawing(#58afd1, #ffe593, 4px, bottom, right);
+}
+
+//=== Button styling, semi-ignore
+.btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  line-height: 1.5;
+  font: 700 1.2rem "Roboto Slab", sans-serif;
+  padding: 1em 2em;
+  letter-spacing: 0.05rem;
+
+  &:focus {
+    outline: 2px dotted #55d7dc;
+  }
+}
+
+//=== Pen styling, ignore
+body {
+  background: #1f1a25;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
 }
 
 /* end custom scss snippet */
