@@ -1,6 +1,13 @@
 /* start custom scss snippet */
 body {
-  font-family: Arial,Helvetica,sans-serif;
+  font-family: Lato;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 16px;
+  letter-spacing: 0.02em;
+  line-height: 1.8em;
+  text-transform: none;
+  color: #000;
 }
 
 .quotations {
@@ -17,22 +24,22 @@ body {
   border-color: #5183f5;
   background: #5183f5;
   color: #fff;
-  box-shadow: 0 3px 13px rgba(0,0,0,.08), 0 2px 4px rgba(0,0,0,.08);
-  padding: 1rem 1rem 3.5rem!important;
+  box-shadow: 0 3px 13px rgba(0, 0, 0, 0.08), 0 2px 4px rgba(0, 0, 0, 0.08);
+  padding: 1rem 1rem 3.5rem !important;
   border-radius: 4px;
   position: relative;
 }
 .quotations .quotation {
-  padding: 2.5rem 2.5rem 4.5rem!important;
+  padding: 2.5rem 2.5rem 4.5rem !important;
   margin: 0 0 1rem;
-    margin-top: 0.3em;
-    margin-right: 0.3em;
-    margin-bottom: 0.3rem;
-    margin-left: 0.3em;
+  margin-top: 0.3em;
+  margin-right: 0.3em;
+  margin-bottom: 0.3rem;
+  margin-left: 0.3em;
 }
 
 blockquote {
-  color: rgba(0,0,0,.7);
+  color: rgba(0, 0, 0, 0.7);
   border: 2px solid #fed356;
   background: #fff8e4;
   border-radius: 4px;
@@ -56,8 +63,9 @@ blockquote cite {
   margin-top: 1rem;
   font-size: 1.5rem;
   text-align: right;
-  font-family: -apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,Helvetica,Arial,sans-serif;
-  color: rgba(0,0,0,.4);
+  font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue,
+    Helvetica, Arial, sans-serif;
+  color: rgba(0, 0, 0, 0.4);
 }
 cite {
   font-style: italic;
@@ -68,6 +76,5 @@ cite {
   bottom: 1.5rem;
   right: 2.5rem;
 }
-
 
 /* end custom scss snippet */
