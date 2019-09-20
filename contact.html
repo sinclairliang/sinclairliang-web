@@ -18,14 +18,19 @@ full_width: true
       {%- include scripts/lib/throttle.js -%}
       {%- include scripts/lib/lazyload.js -%}
     </script>
-    {% comment %} <script src="https://www.google.com/recaptcha/api.js" async defer></script> {% endcomment %}
+    {% comment %}
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    {% endcomment %}
   </head>
   <body>
     <div class="root" data-is-touch="false">
-      <h5 style="text-align: center; white-space: pre-wrap; color:#d79922;">CONTACT ME</h5>
+      <h5 style="text-align: center; white-space: pre-wrap; color:#d79922;">
+        CONTACT ME
+      </h5>
     </div>
     <div style="text-align: center;">
-      <h3 style="text-align: left; color:#52658f;     
+      <h3
+        style="text-align: left; color:#52658f;     
                 font-family: Arial,Helvetica,sans-serif;
                 font-weight: 700;
                 font-size: 24px;
@@ -38,40 +43,47 @@ full_width: true
                 letter-spacing: .02em;
                 line-height: 1.3em;
                 text-transform: none;
-                margin-bottom: 100px;">
-        Do you have any additional questions? I would love to answer them! 
-        Drop a line through the contact form below and I'll be sure to get back to you as soon as humanly possible.
-        If you're in the Bay Area, we can manage to meet face-to-face.
+                margin-bottom: 100px;"
+      >
+        Do you have any additional questions? I would love to answer them! Drop
+        a line through the contact form below and I'll be sure to get back to
+        you as soon as humanly possible. If you're in the Bay Area, we can
+        manage to meet face-to-face.
       </h3>
     </div>
-        <div style="text-align: center;">
-          <iframe
-            width="480"
-            height="320"
-            src="https://sinclairliang.substack.com/embed"
-            frameborder="0"
-            scrolling="no"
-          ></iframe>
+    <div style="text-align: center;">
+      <iframe
+        width="480"
+        height="320"
+        src="https://sinclairliang.substack.com/embed"
+        frameborder="0"
+        scrolling="no"
+      ></iframe>
     </div>
     <div class="grid">
-      <div class="cell cell--12" style="margin-bottom: 100px;">
-      </div>
+      <div class="cell cell--12" style="margin-bottom: 100px;"></div>
     </div>
-    <div class="grid" style="display: flex;
-              flex-wrap: wrap;">
+    <div
+      class="grid"
+      style="display: flex;
+              flex-wrap: wrap;"
+    >
       <div class="cell cell--7">
         <div style="text-align: left;">
-          <h3 style="font-family: Lato;
+          <h3
+            style="font-family: Lato;
                     font-weight: 400;
                     font-style: normal;
                     font-size: 26px;
                     letter-spacing: .02em;
                     line-height: 1.3em;
                     text-transform: none;
-                    color: #52658f;">
+                    color: #52658f;"
+          >
             Tell me what's going on.
           </h3>
-          <h4 style="color: #d79922;     
+          <h4
+            style="color: #d79922;     
                     font-family: Arial,Helvetica,sans-serif;
                     font-weight: 700;
                     font-size: 18px;
@@ -84,54 +96,74 @@ full_width: true
                     font-size: 14px;
                     letter-spacing: .1em;
                     line-height: 2em;
-                    text-transform: uppercase;">
+                    text-transform: uppercase;"
+          >
             PLEASE PROVIDE ANY NECESSARY CONTACT INFO
           </h4>
-            <div class="container">
-              <form method="post" action="https://submit-form.com/L19d8AMHNezwaeodCvXv_" name="contact_form" style="padding-right: 20px;">
-                <input
-                  type="checkbox"
-                  name="_honeypot"
-                  style="display:none"
-                  tabindex="-1"
-                  autocomplete="off"
-                />
-                <label for="first_name">First Name</label>
-                <input name="first_name" type="text" required placeholder=""/>
-                <br>
-                <label for="last_name">Last Name</label>
-                <input name="last_name" type="text" required placeholder=""/>
-                <br>
-                <label for="email">Email</label>
-                <input name="email" type="email" required placeholder=""/>
-                <br>
-                <label for="message">What's going on?</label><br>
-                <textarea name="message" cols="30" rows="10" placeholder="Enter your message here ..." required> </textarea>
-                <div class="left">
-                  {% comment %} <div class="g-recaptcha" data-sitekey="6LdSYLkUAAAAADkK1ZVJgdBVcEHq1lE02W3IUfvD"></div> {% endcomment %}
-                  <input type="submit" value="Submit" style="border-radius: 0;">
-                </div>
-              </form>	
-            </div>
-
-
+          <div class="container">
+            <form
+              method="post"
+              action="https://submit-form.com/L19d8AMHNezwaeodCvXv_"
+              name="contact_form"
+              style="padding-right: 20px;"
+            >
+              <input
+                type="checkbox"
+                name="_honeypot"
+                style="display:none"
+                tabindex="-1"
+                autocomplete="off"
+              />
+              <label for="first_name">First Name</label>
+              <input name="first_name" type="text" required placeholder="" />
+              <br />
+              <label for="last_name">Last Name</label>
+              <input name="last_name" type="text" required placeholder="" />
+              <br />
+              <label for="email">Email</label>
+              <input name="email" type="email" required placeholder="" />
+              <br />
+              <label for="message">What's going on?</label><br />
+              <textarea
+                name="message"
+                cols="30"
+                rows="10"
+                placeholder="Enter your message here ..."
+                required
+              >
+              </textarea>
+              <div class="left">
+                {% comment %}
+                <div
+                  class="g-recaptcha"
+                  data-sitekey="6LdSYLkUAAAAADkK1ZVJgdBVcEHq1lE02W3IUfvD"
+                ></div>
+                {% endcomment %}
+                <input type="submit" value="Submit" style="border-radius: 0;" />
+              </div>
+            </form>
+          </div>
         </div>
       </div>
-      <div class="cell cell--auto" style="display: flex;
-              flex-wrap: wrap;">
+      <div
+        class="cell cell--auto"
+        style="display: flex;
+              flex-wrap: wrap;"
+      >
         <div style="text-align: left;">
-          <h3 style="font-family: Lato;
+          <h3
+            style="font-family: Lato;
                     font-weight: 400;
                     font-style: normal;
                     font-size: 26px;
                     letter-spacing: .02em;
                     line-height: 1.3em;
                     text-transform: none;
-                    color: #52658f;">
-          Find Me.
+                    color: #52658f;"
+          >
+            Find Me.
           </h3>
-          <p>Santa Cruz, 95060, Calif.
-          <br>USA</p>
+          <p>Santa Cruz, 95060, Calif. <br />USA</p>
           <div class="mapouter" style="margin-top: 48px;">
             <div class="gmap_canvas">
               <iframe
@@ -160,7 +192,6 @@ full_width: true
               }
             </style>
           </div>
-
         </div>
       </div>
     </div>
@@ -170,10 +201,3 @@ full_width: true
   </body>
 </html>
 
-
-
-{% comment %} <form action="https://formspree.io/sinclairliang@gmail.com" method="POST">
-  <input type="text" name="Sinclair">
-  <input type="email" name="Sinclair Liang">
-  <input type="submit" value="Send">
-</form> {% endcomment %}
