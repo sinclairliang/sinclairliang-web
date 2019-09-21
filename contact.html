@@ -62,91 +62,138 @@ titles:
     <div class="grid">
       <div class="cell cell--12" style="margin-bottom: 100px;"></div>
     </div>
-<body>
-  <div class="container">
-    <div class="innerwrap">
-      <section class="section1 clearfix">
-        <div class="textcenter">
-          <span class="shtext">Contact Us</span>
-          <span class="seperator"></span>
-          <h1>Drop Us a Mail</h1>
+    <div
+      class="grid"
+      style="display: flex;
+              flex-wrap: wrap;"
+    >
+      <div class="cell cell--7">
+        <div style="text-align: left;">
+          <h3
+            style="font-family: Lato;
+                    font-weight: 400;
+                    font-style: normal;
+                    font-size: 26px;
+                    letter-spacing: .02em;
+                    line-height: 1.3em;
+                    text-transform: none;
+                    color: #52658f;
+                    text-align: left;"
+          >
+            Tell me what's going on.
+          </h3>
+          <h4
+            style="color: #d79922;     
+                    font-family: Arial,Helvetica,sans-serif;
+                    font-weight: 700;
+                    font-size: 18px;
+                    letter-spacing: 0em;
+                    line-height: 1.2em;
+                    text-transform: none;
+                    font-family: Lato;
+                    font-weight: 400;
+                    font-style: normal;
+                    font-size: 14px;
+                    letter-spacing: .1em;
+                    line-height: 2em;
+                    text-transform: uppercase;"
+          >
+            PLEASE PROVIDE ANY NECESSARY CONTACT INFO
+          </h4>
+          <div class="container">
+            <form
+              method="post"
+              action="https://submit-form.com/L19d8AMHNezwaeodCvXv_"
+              name="contact_form"
+              style="padding-right: 20px;"
+            >
+              <input
+                type="checkbox"
+                name="_honeypot"
+                style="display:none"
+                tabindex="-1"
+                autocomplete="off"
+              />
+              <label for="first_name">First Name</label>
+              <input name="first_name" type="text" required placeholder="" />
+              <br />
+              <label for="last_name">Last Name</label>
+              <input name="last_name" type="text" required placeholder="" />
+              <br />
+              <label for="email">Email</label>
+              <input name="email" type="email" required placeholder="" />
+              <br />
+              <label for="message">What's going on?</label><br />
+              <textarea
+                name="message"
+                cols="30"
+                rows="10"
+                placeholder="Enter your message here ..."
+                required
+              >
+              </textarea>
+              <div class="left">
+                {% comment %}
+                <div
+                  class="g-recaptcha"
+                  data-sitekey="6LdSYLkUAAAAADkK1ZVJgdBVcEHq1lE02W3IUfvD"
+                ></div>
+                {% endcomment %}
+                <input type="submit" value="Submit" style="border-radius: 0;" />
+              </div>
+            </form>
+          </div>
         </div>
-      </section>
-
-      <section class="section2 clearfix">
-        <div class="col2 column1 first">
-          <div class="mapouter">
+      </div>
+      <div
+        class="cell cell--auto"
+        style="display: flex;
+              flex-wrap: wrap;"
+      >
+        <div style="text-align: left;">
+          <h3
+            style="font-family: Lato;
+                    font-weight: 400;
+                    font-style: normal;
+                    font-size: 26px;
+                    letter-spacing: .02em;
+                    line-height: 1.3em;
+                    text-transform: none;
+                    color: #52658f;
+                    text-align: left;"
+          >
+            Find Me.
+          </h3>
+          <p>Santa Cruz, 95060, Calif. <br />USA</p>
+          <div class="mapouter" style="margin-top: 48px;">
             <div class="gmap_canvas">
               <iframe
-                width="600"
-                height="550"
+                width="400"
+                height="400"
                 id="gmap_canvas"
-                src="https://maps.google.com/maps?q=Santa%20Cruz&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                src="https://maps.google.com/maps?q=santa%20cruz&t=&z=9&ie=UTF8&iwloc=&output=embed"
                 frameborder="0"
                 scrolling="no"
                 marginheight="0"
                 marginwidth="0"
-              ></iframe
-              ><a href="https://www.embedgooglemap.org">embedgooglemap.org</a>
+              ></iframe>
             </div>
             <style>
               .mapouter {
                 position: relative;
                 text-align: right;
-                height: 550px;
-                width: 600px;
+                height: 400px;
+                width: 400px;
               }
               .gmap_canvas {
                 overflow: hidden;
                 background: none !important;
-                height: 550px;
-                width: 600px;
+                height: 400px;
+                width: 400px;
               }
             </style>
           </div>
-          
-          </div>
-          
-        <div class="col2 column2 last">
-          <div class="sec2innercont">
-            <div class="sec2addr">
-              <p>
-                Santa Cruz, 95060, Calif.
-              </p>
-              <p>
-                USA
-              </p>
-            </div>
-          </div>
-          <div class="sec2contactform">
-            <h3 class="sec2frmtitle">Want to Know More?? Drop Us a Mail</h3>
-            <form action="">
-              <div class="clearfix">
-                <input class="col2 first" type="text" placeholder="FirstName" />
-                <input class="col2 last" type="text" placeholder="LastName" />
-              </div>
-              <div class="clearfix">
-                <input class="col2 first" type="Email" placeholder="Email" />
-                <input
-                  class="col2 last"
-                  type="text"
-                  placeholder="Contact Number"
-                />
-              </div>
-              <div class="clearfix">
-                <textarea name="textarea" id="" cols="30" rows="7">
-Your message here...</textarea
-                >
-              </div>
-              <div class="clearfix"><input type="submit" value="Send" /></div>
-            </form>
-          </div>
         </div>
-      </section>
-    </div>
-  </div>
-</body>
-
       </div>
     </div>
     <script>
