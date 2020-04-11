@@ -8,7 +8,7 @@ tags:
 
 Nicole M. will always be my best friend, even after college. 
 
-![image info](../_posts/Nicole.jpg)
+![image info](https://github.com/sinclairliang/sinclairliang/raw/master/_posts/Nicole.jpg)
 
 <p id="poem-full">
 I could skip a heartbeat, and I would survive.<br>
