@@ -8,7 +8,7 @@ tags:
 
 Nicole M. will always be my best friend, even after college. 
 
-[image](files/../Nicole.jpg)
+![image info](./Nicole.jpg)
 
 <p id="poem-full">
 I could skip a heartbeat, and I would survive.<br>
