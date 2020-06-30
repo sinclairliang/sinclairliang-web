@@ -22,3 +22,5 @@ I had not started packing at the time yet, at around 9 pm. Arielle and I drove t
 <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/Santa-Cruz-Party.jpg?raw=true" />
 
 ### The Day We Left
+
+I woke up at 8 am, when we were supposed to leave Santa Cruz. Collin was on his way, Nick still had to move his senior project to the Homeless Garden, Sophie wanted to take a last picture of us before we all parted. So many things going on, so little time. Brandon arrived with Sophie, it turned out I couldn't fit all my boxes into his Chevrolet so I had to mail them via USPS and only kept some stuff with me in the car. So we quickly drove to USPS and mailed some boxes.
