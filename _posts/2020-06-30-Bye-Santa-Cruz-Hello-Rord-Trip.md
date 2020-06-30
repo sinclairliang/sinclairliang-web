@@ -33,3 +33,7 @@ We then rushed back home and waited for Nick. Leo and Collin was already helping
 
 
 Sophie ubered back to her home and we cleaned up the last bit of my stuff in the house. I then had only one pillow and one comforter left. I put threw them out and yelled: "Bye Santa Cruz, bye college."
+
+### First Stop: The Place that Always Has My Heart
+<div align="center"> San Francisco </div>
+
