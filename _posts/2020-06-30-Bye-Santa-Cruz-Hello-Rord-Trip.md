@@ -19,4 +19,6 @@ Despite of finishing my last essay in Advanced Ethics a couple days ago, I still
 
 I had not started packing at the time yet, at around 9 pm. Arielle and I drove to the West Cliff to pick up Curry and then Nick to my house. We started drinking, I knew it was probably my last time hanging out with them all together. While we were drinking I started packing, which actually lasted longer then the party. The party did not really last long because everyone was already tired from this dreadful quarter and finals week. People started leaving around midnight. I spent the next 4 hours putting my 4 years of college stories into 6 boxes, two duffle bags and a big suitcase.
 
+<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/Santa-Cruz-Party.jpg?raw=true" />
+
 ### The Day We Left
