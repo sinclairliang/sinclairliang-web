@@ -32,4 +32,4 @@ We then rushed back home and waited for Nick. Leo and Collin was already helping
 <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/Sophie.jpg?raw=true" />
 
 
-Sophie ubered back to her home and we cleaned up the last bit of my stuff in the house. I then had only one pillow and one comforter left. I put threw them out and yelled: "Bye Santa Cruz, bye Santa Cruz."
+Sophie ubered back to her home and we cleaned up the last bit of my stuff in the house. I then had only one pillow and one comforter left. I put threw them out and yelled: "Bye Santa Cruz, bye college."
