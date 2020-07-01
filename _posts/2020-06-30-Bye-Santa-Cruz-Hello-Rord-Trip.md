@@ -80,7 +80,7 @@ After Davis, Brandon was also getting close to finish his work for the day and f
 
 After a few games I dozed off, when I woke up again we had already crossed the state line. There we were the great state of Nevada. It was awfully windy in Reno, chillier than the Bay Area. 
 
-<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/reno.png?raw=true" />
+<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/reno.jpg?raw=true" />
 
 
  We stopped at a parking lot of Costco. As we were walking in that Costco to navigate to the bathroom, we were amazed how few people were wearing facial masks during a pandemic. Colin M. had just turned 21 not for long and had not been to a Casino. So we were determined to take a side quest to let Colin M. experience the Reno experience. We found the closet casino and drove there. 
@@ -98,5 +98,5 @@ After a few games I dozed off, when I woke up again we had already crossed the s
 
 <p>
     <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/casino2.jpg?raw=true" />
-    <em>Colin's First Loss to the Casino</em>
+    <em>A Proud UCSC Graduate's First Loss to the Casino</em>
 </p>
