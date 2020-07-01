@@ -60,6 +60,9 @@ Right before we got to my house we saw this super slant road. We were amazed. It
 
 There we stood at the end of this continent...no more land... only the Pacific in front us. We got in the car, made a right turn on the 21st and Castro, we again had the whole continent in front of us. 
 
+
+### "Downtown Davis"
+
 Once we crossed the Bay Bridge, Central Valley heat wrapped us around in the car. We filled our journey to Davis with jokes and anecdotes about people we met during college. At around 6 pm we approached Davis, Calif. Colin suggested to have dinner there. Since none of us was familiar with Davis, we set the Woodstock's as our destination so that we can wander around Davis from there. Nick was the one that had the wheel as we were approaching Davis, and I, was the one holding the GPS. This is the road sign I saw and Nick asked me which direction to take. I said: "Downtown." Lol
 
 <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/Davis-Sign.png?raw=true" />
