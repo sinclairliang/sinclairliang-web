@@ -95,3 +95,8 @@ After a few games I dozed off, when I woke up again we had already crossed the s
     <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/casino1.jpg?raw=true" />
     <em>Us & Two Girls in the Casino</em>
 </p>
+
+<p>
+    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/casino2.jpg?raw=true" />
+    <em>Colin's First Loss to the Casino</em>
+</p>
