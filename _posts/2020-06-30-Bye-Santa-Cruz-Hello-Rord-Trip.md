@@ -83,7 +83,7 @@ After a few games I dozed off, when I woke up again we had already crossed the s
 <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/reno.jpg?raw=true" />
 
 
- We stopped at a parking lot of Costco. As we were walking in that Costco to navigate to the bathroom, we were amazed how few people were wearing facial masks during a pandemic. Colin M. had just turned 21 not for long and had not been to a Casino. So we were determined to take a side quest to let Colin M. experience the Reno experience. We found the closet casino and drove there. 
+ We stopped at a parking lot of Costco. As we were walking in that Costco to navigate to the bathroom, we were amazed how few people were wearing facial masks during a pandemic. Colin M. had just turned 21 not for long and had not been to a Casino. So we were determined to take a side quest to let Colin M. experience the Reno experience. We found the closet casino and drove there. Getting to the destination was our second priority, there was just so much to see, to feel and to experience. 
 
 <p>
     <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/casino.jpg?raw=true" />
@@ -100,3 +100,11 @@ After a few games I dozed off, when I woke up again we had already crossed the s
     <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/casino2.jpg?raw=true" />
     <em>A Proud UCSC Graduate's First Loss to the Casino</em>
 </p>
+
+I contributed $2 to the Casino and Colin $1. We walked out and kept rolling under the stars. It was then estimated we would get to Salt Lake City at around 6 am the next morning. So we also needed to fuel up before everything closed. Brandon found a restaurant in Lovelock, Nevada for us to stop by. It was a two-hour drive from Reno. We called ahead to make sure their kitchen would still be open. 
+
+We got to Gold Diggers Saloon and Grub House around 11:30 pm. I was again amazed how little people gave a damn about wearing facial masks here, compared to that in California. We walked in, the bartender, a very nice and lovely lady asked me if I wanted something to drink. A guy approached us and offered all of us beer. Never would I say no to free cold beer, then we started drinking. 
+
+<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/lovelock.jpg?raw=true" />
+
+We left the Saloon around 1 am and started our journey again to the Salt Lake. Brandon kept driving until the sun came up. Colin and I, in the back, kept talking about dumb shit to keep Brandon awake. It was around 6:30 am we checked in the hotel and we just collapsed and did not wake up until 6 hours after.
