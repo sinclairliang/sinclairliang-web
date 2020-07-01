@@ -9,6 +9,8 @@ tags: Life
 
 Santa Cruz has been a place filled with happiness and joy and countless memories for me. After all, I spent the last 4 years in this tiny costal college town, met so many people who influenced me in more than one way. I got a job offer after graduation in the Midwest. On a random Saturday during a barbecue I asked Brandon if he could drop me off at the airport in San Jose after some Friday on which I was supposed to graduate. Brandon told me he could actually drive me all the way to Nebraska, where a new chapter of my life will then begin. So I worked on our itinerary. I did not drive so it would be better if we could get more people to join us in this road trip. Eventually Colin M. and Nick H. joined our group. We planned to leave in the morning of Friday, the 12th of June. 
 
+I first met Colin M. not long before quarantine happened in California...For the first few weeks we met we were just exploring clubs and bars in town, as to catch the tail of college experience. After almost three months of being locked down at home, our hearts had already been wandering to imaginary places where everybody is healthy and caring. With Brandon's suggestion for this road trip there really began my graduation. Prior to that I'd always dreamed of driving through places in the midwest, seeing the country, rolling under the stars, always vaguely thinking and never specifically planning. 
+
 This was our original plan, according to which we would stay in Salt Lake City for two nights and then drive all the way to Omaha.
 
 <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/original-map.png?raw=true" />
@@ -112,8 +114,15 @@ We got to Gold Diggers Saloon and Grub House around 11:30 pm. I was again amazed
     <em>We were All Beat</em>
 </p>
 
-We left the Saloon around 1 am and started our journey again to the Salt Lake. Brandon kept driving until the sun came up. Colin and I, in the back, kept talking about dumb shit to keep Brandon awake. It was around 6:30 am we checked in the hotel and we just collapsed and did not wake up until 6 hours after.
+We left the Saloon around 1 am and started our journey again to the Salt Lake. As in a dream we zoomed through small towns smack out of the darkness and passed through long lines of fields residing at the edge of Nevada desert. Brandon kept driving until the sun came up. Colin and I, in the back, kept talking about dumb shit to keep Brandon awake. It was around 6:30 am we checked in the hotel and we just collapsed and did not wake up until 6 hours after.
 
 
 
 ### Salt Lake City
+Salt Lake City, a city of sprinklers. 
+When we woke up it was already bright and sunny. That was one of the strangest moment in my life. I woke up in a remote cheap hotel I'd never seen, far from home haunted and tired with travel. I did not know who I was or who my friends were for a few strange seconds. After we took care of our personal hygienes, we were hungry again. We headed to a mall in downtown, close to the Mormon Temple we wanted to visit. We walked around the mall as kids were amazed by countless toys. It was our first time seeing so many people congregating under one roof in months.
+
+<p>
+    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/mall.jpg?raw=true" />
+    <em>Colin M. & Nick H.</em>
+</p>
