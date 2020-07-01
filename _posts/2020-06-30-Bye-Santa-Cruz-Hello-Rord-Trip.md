@@ -107,4 +107,13 @@ We got to Gold Diggers Saloon and Grub House around 11:30 pm. I was again amazed
 
 <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/lovelock.jpg?raw=true" />
 
+<p>
+    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/wings.jpg?raw=true" />
+    <em>We were All Beat</em>
+</p>
+
 We left the Saloon around 1 am and started our journey again to the Salt Lake. Brandon kept driving until the sun came up. Colin and I, in the back, kept talking about dumb shit to keep Brandon awake. It was around 6:30 am we checked in the hotel and we just collapsed and did not wake up until 6 hours after.
+
+
+
+### Salt Lake City
