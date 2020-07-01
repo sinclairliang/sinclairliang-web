@@ -66,3 +66,26 @@ There we stood at the end of this continent...no more land... only the Pacific i
 Once we crossed the Bay Bridge, Central Valley heat wrapped us around in the car. We filled our journey to Davis with jokes and anecdotes about people we met during college. At around 6 pm we approached Davis, Calif. Colin suggested to have dinner there. Since none of us was familiar with Davis, we set the Woodstock's as our destination so that we can wander around Davis from there. Nick was the one that had the wheel as we were approaching Davis, and I, was the one holding the GPS. This is the road sign I saw and Nick asked me which direction to take. I said: "Downtown." Lol
 
 <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/Davis-Sign.png?raw=true" />
+
+We ended up filling up our empty stomachs in Carl Jr's because they have vegan options. 
+
+<p>
+    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/After-Davis.jpg?raw=true" />
+    <em>After Junk Food</em>
+</p>
+
+### Nevada
+
+After Davis, Brandon was also getting close to finish his work for the day and for the week as Nick was getting tired for driving too long. We arranged so that Brandon would start driving after Reno. Colin suggested playing a guessing game to keep everyone awake during the long ride through California mountains. 
+
+After a few games I dozed off, when I woke up again we had already crossed the state line. There we were the great state of Nevada. It was awfully windy in Reno, chillier than the Bay Area. 
+
+<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/reno.png?raw=true" />
+
+
+ We stopped at a parking lot of Costco. As we were walking in that Costco to navigate to the bathroom, we were amazed how few people were wearing facial masks during a pandemic. Colin M. had just turned 21 not for long and had not been to a Casino. So we were determined to take a side quest to let Colin M. experience the Reno experience. We found the closet casino and drove there. 
+
+<p>
+    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/casino.jpg?raw=true" />
+    <em>Nick H. & Colin M. Walking to the Casino</em>
+</p>
