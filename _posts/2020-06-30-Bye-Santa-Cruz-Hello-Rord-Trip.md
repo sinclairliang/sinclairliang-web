@@ -92,6 +92,6 @@ After a few games I dozed off, when I woke up again we had already crossed the s
 
 
 <p>
-    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/casino1.JPG?raw=true" />
+    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/casino1.jpg?raw=true" />
     <em>Us & Two Girls in the Casino</em>
 </p>
