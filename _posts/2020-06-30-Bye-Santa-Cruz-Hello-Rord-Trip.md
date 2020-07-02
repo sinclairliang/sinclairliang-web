@@ -125,3 +125,10 @@ When we woke up it was already bright and sunny. That was one of the strangest m
     <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/mall.jpg?raw=true" />
     <em>Colin M. & Nick H.</em>
 </p>
+
+The Mormon Church was was closed due to Covid, compounded with construction. After talking to some mormon girls, we decided to hike on Ensign Peak Trail. People told us it would take 40 minutes, but we were proud UCSC graduates so it only barely 20 minutes for us to get to the top. We were on a hill overlooking Salt Lake City's neat patterns of streets and buildings. 
+
+<p>
+    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/ensign.jpg?raw=true" />
+    <em>Ensign Peak</em>
+</p>
