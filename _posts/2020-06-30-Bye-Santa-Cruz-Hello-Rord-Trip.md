@@ -117,7 +117,6 @@ We got to Gold Diggers Saloon and Grub House around 11:30 pm. I was again amazed
 We left the Saloon around 1 am and started our journey again to the Salt Lake. As in a dream we zoomed through small towns smack out of the darkness and passed through long lines of fields residing at the edge of Nevada desert. Brandon kept driving until the sun came up. Colin and I, in the back, kept talking about dumb shit to keep Brandon awake. It was around 6:30 am we checked in the hotel and we just collapsed and did not wake up until 6 hours after.
 
 
-
 ### Salt Lake City
 Salt Lake City, a city of sprinklers. 
 When we woke up it was already bright and sunny. That was one of the strangest moment in my life. I woke up in a remote cheap hotel I'd never seen, far from home haunted and tired with travel. I did not know who I was or who my friends were for a few strange seconds. After we took care of our personal hygienes, we were hungry again. We headed to a mall in downtown, close to the Mormon Temple we wanted to visit. We walked around the mall as kids were amazed by countless toys. It was our first time seeing so many people congregating under one roof in months.
