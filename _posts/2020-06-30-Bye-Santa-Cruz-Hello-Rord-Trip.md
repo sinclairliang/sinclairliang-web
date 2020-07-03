@@ -4,7 +4,6 @@ comments: true
 tags: Life
 ---
 
-
 ### Before Graduation
 
 Santa Cruz has been a place filled with happiness and joy and countless memories for me. After all, I spent the last 4 years in this tiny costal college town, met so many people who influenced me in more than one way. I got a job offer after graduation in the Midwest. On a random Saturday during a barbecue I asked Brandon if he could drop me off at the airport in San Jose after some Friday on which I was supposed to graduate. Brandon told me he could actually drive me all the way to Nebraska, where a new chapter of my life will then begin. So I worked on our itinerary. I did not drive so it would be better if we could get more people to join us in this road trip. Eventually Colin M. and Nick H. joined our group. We planned to leave in the morning of Friday, the 12th of June. 
@@ -25,16 +24,14 @@ I had not started packing at the time yet, at around 9 pm. Arielle and I drove t
 
 ### The Day We Left
 
-I woke up at 8 am, when we were supposed to leave Santa Cruz. Colin was on his way, Nick still had to move his senior project to the Homeless Garden, Sophie wanted to take a last picture of us before we all parted. So many things going on, so little time. Brandon arrived with Sophie, it turned out I couldn't fit all my boxes into his Chevrolet so I had to mail them via USPS and only kept some stuff with me in the car. So we quickly drove to USPS and mailed some boxes.
+I woke up at 8 am, when we were supposed to leave Santa Cruz. Colin was on his way, Nick still had to move his senior project to the Homeless Garden. Brandon arrived with my friend, it turned out I couldn't fit all my boxes into his Chevrolet so I had to mail them via USPS and only kept some stuff with me in the car. So we quickly drove to USPS and mailed some boxes.
 
 <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/post-office.jpg?raw=true" />
 
-We then rushed back home and waited for Nick. Leo and Colin was already helping Nick move his project to the Homeless Garden and on their way back. When everyone was back to my house, the hub before we all parted for different directions, we decided to take one last picture. For some reason we could not get a group pic, but here is one Sophie wanted. 
-
-<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/Sophie.jpg?raw=true" />
+We then rushed back home and waited for Nick. Leo and Colin was already helping Nick move his project to the Homeless Garden and on their way back. When everyone was back to my house, the hub before we said good bye. 
 
 
-Sophie ubered back to her home and we cleaned up the last bit of my stuff in the house. I then had only one pillow and one comforter left. I put threw them out and yelled: "Bye Santa Cruz, bye college."
+We cleaned up the last bit of my stuff in the house. I then had only one pillow and one comforter left. I put threw them out and yelled: "Bye Santa Cruz, bye college."
 
 ### First Stop: The Place that Always Has My Heart
 <div align="center"> San Francisco </div>
