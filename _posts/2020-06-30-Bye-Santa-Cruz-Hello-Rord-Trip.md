@@ -26,9 +26,16 @@ I had not started packing at the time yet, at around 9 pm. Arielle and I drove t
 
 I woke up at 8 am, when we were supposed to leave Santa Cruz. Colin was on his way, Nick still had to move his senior project to the Homeless Garden. Brandon arrived with my friend, it turned out I couldn't fit all my boxes into his Chevrolet so I had to mail them via USPS and only kept some stuff with me in the car. So we quickly drove to USPS and mailed some boxes.
 
+
+
+Sophie had been my friend for years in college. She was always there when I was lost, like this tome. I needed to ship some boxes via USPS because I could not fit them all. Sophie was there to help me move the boxes. I was glad to get on the last picture with Sophie before I finally said goodby to the town of Santa Cruz.
+
+<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/Sophie.jpg?raw=true" />
+
 <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/post-office.jpg?raw=true" />
 
 We then rushed back home and waited for Nick. Leo and Colin was already helping Nick move his project to the Homeless Garden and on their way back. When everyone was back to my house, the hub before we said good bye. 
+
 
 
 We cleaned up the last bit of my stuff in the house. I then had only one pillow and one comforter left. I put threw them out and yelled: "Bye Santa Cruz, bye college."
