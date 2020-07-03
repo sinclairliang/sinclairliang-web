@@ -29,13 +29,14 @@ Sophie K. Sophie came to say good bye for the last time. We were in the library 
 
 It turned out I couldn't fit all my boxes into his Chevrolet so I had to mail them via USPS and only kept some stuff with me in the car. So we quickly drove to USPS and mailed some boxes.
 
-<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/groupPic_house.jpg?raw=true" />
+<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/post-office.jpg?raw=true" />
 
 We then rushed back home and waited for Nick. Leo and Colin was already helping Nick move his project to the Homeless Garden and on their way back. When everyone was back to my house, the hub before we went different ways.  
 
 We all wanted to take a picture before I leave this place for ever, who knows when I will come back to this hippie town again?
 
-<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/post-office.jpg?raw=true" />
+
+<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/groupPic_house.jpg?raw=true" />
 
 We cleaned up the last bit of my stuff in the house. I then had only one pillow and one comforter left. I put threw them out and yelled: "Bye Santa Cruz, bye college."
 
