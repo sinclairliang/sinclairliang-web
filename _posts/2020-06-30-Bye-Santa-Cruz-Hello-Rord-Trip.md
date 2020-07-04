@@ -142,3 +142,13 @@ Nick, Colin and I are all 2020 grads from UCSC. Our commencement was happening w
 The next day we woke up with no rush, since we had already changed our plan from going straight to Omaha, to Denver. We are going to stay in Denver for one night before we make our last leg of travel. 
 
 <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/map-updated.png?raw=true" />
+
+### Denver
+
+Denver has always been a dream place for some strange reason, which I can't elaborate. I am not from Denver, nor a frequent visitor of the city. In fact I have been to Denver once during my train ride from New York to California. It was the New Year's Eve of 2017, I got off the Amtrak and decided to stay in Denver for a few days before continuing my journey to the West. Alone in new city during New Year's Eve, I called R. Taylor, who was my close friend back then to say Happy New Year. Did some hitch hiking around town and read a few books. 
+
+How strange things can happen in particular times, this time I am leaving California and going East. We left the State of Wyoming with a souvenir, a speed ticket. The sun was setting as we were zooming into Denver. Alyzsha, who I briefly met last year in Santa Cruz, now lives back in Denver. So I messaged her to hang and get a few beer with us that night, she picked a place, a dive bar. 
+
+When the Colorado sun was shining on me I was already picturing myself in the bar that night, with the gang, just talk and have fun.
+
+<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/denverSun.png?raw=true" />
