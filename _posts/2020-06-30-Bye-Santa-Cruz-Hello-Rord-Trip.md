@@ -151,7 +151,9 @@ How strange things can happen in particular times, this time I am leaving Califo
 
 When the Colorado sun was shining on me I was already picturing myself in the bar that night, with the gang, just talk and have fun.
 
-<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/denverSun.jpg?raw=true" />
+<div align="center">
+    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/denverSun.jpg?raw=true" width="60%"/>
+</div>
 
 Denver was already calling me like a promised land. 
 
