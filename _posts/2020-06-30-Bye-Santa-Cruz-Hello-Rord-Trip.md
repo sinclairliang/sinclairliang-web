@@ -8,7 +8,7 @@ tags: Life
 
 Santa Cruz has been a place filled with happiness and joy and countless memories for me. After all, I spent the last 4 years in this tiny costal college town, met so many people who influenced me in more than one way. I got a job offer after graduation in the Midwest. On a random Saturday during a barbecue I asked Brandon if he could drop me off at the airport in San Jose after some Friday on which I was supposed to graduate. Brandon told me he could actually drive me all the way to Nebraska, where a new chapter of my life will then begin. So I worked on our itinerary. I did not drive so it would be better if we could get more people to join us in this road trip. Eventually Colin M. and Nick H. joined our group. We planned to leave in the morning of Friday, the 12th of June. 
 
-I first met Colin M. not long before quarantine happened in California...For the first few weeks we met we were just exploring clubs and bars in town, as to catch the tail of college experience. After almost three months of being locked down at home, our hearts had already been wandering to imaginary places where everybody is healthy and caring. With Brandon's suggestion for this road trip there really began my graduation. Prior to that I'd always dreamed of driving through places in the midwest, seeing the country, rolling under the stars, always vaguely thinking and never specifically planning. 
+I first met Colin M. not long before quarantine happened in California...For the first few weeks we met we were just exploring clubs and bars in town, as to catch the tail of college experience. After almost three months of being locked down at home, our minds had already been wandering to imaginary places where everybody is healthy and caring. With Brandon's suggestion for this road trip there really began my graduation. Prior to that I'd always dreamed of driving through places in the midwest, seeing the country, rolling under the stars, always vaguely thinking and never specifically planning. 
 
 This was our original plan, according to which we would stay in Salt Lake City for two nights and then drive all the way to Omaha.
 
@@ -149,7 +149,7 @@ Denver has always been a dream place for some strange reason, which I can't elab
 
 How strange things can happen in particular times, this time I am leaving California and going East. We left the State of Wyoming with a souvenir, a speed ticket. The sun was setting as we were zooming into Denver. Alyzsha, who I briefly met last year in Santa Cruz, now lives back in Denver. So I messaged her to hang and get a few beer with us that night, she picked a place, a dive bar. 
 
-When the Colorado sun was shining on me I was already picturing myself in the bar that night, with the gang, just talk and have fun.
+When the Colorado sun was shining on me I was already picturing myself in the bar that night, with the gang, just talk and have fun. We never run out of things to talk about or to explore. There are just so many things to keep out mind curious.
 
 <div align="center">
     <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/denverSun.jpg?raw=true" width="60%"/>
@@ -173,4 +173,13 @@ When we parked next the  dive bar it was already close to 10 pm. Colin and I pas
     <em>the Gang</em>
 </p>
 
+We hung out a bit, hopping from bar to bar. Not everyone was like us, with nothing to do but just to go. Alyzsha and her boyfriend had work the next morning so they left early. We kept partying until the bars closed. It was exactly like one of those college weekend nights but now we have officially been graduates. 
 
+The next morning I woke up with a huge headache, I must have drunk so much the night before. The last memory I had from the previous night we drove to the wrong hotel and it took us another 30 minutes to get back to the one where we actually had a room.
+
+I popped two aspirins and off we go. How I wish I could stay in denver longer, but we gotta move! By 2 pm we hit Fort Morgan and by 5 we were driving pass the last town in Colorado before we crossed the state line. We would be in Omaha by 1 am, there was another state to cross before making the final destination. 
+
+<p>
+    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/Nebraska.jpg?raw=true" />
+    <em>At the State Line</em>
+</p>
