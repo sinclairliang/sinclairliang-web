@@ -136,3 +136,9 @@ The Mormon Church was was closed due to Covid, compounded with construction. Aft
     <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/ensign.jpg?raw=true" />
     <em>Ensign Peak</em>
 </p>
+
+Nick, Colin and I are all 2020 grads from UCSC. Our commencement was happening while we were sleeping in the hotel. Also I did not believe in commencement in general, a waste of time and money, we have more important things to do, such as driving through the open country. We decided to buy a bottle of champagne to celebrate, in our way. But we could not find a liquor store, so we postponed out plan till later when we get into a bar. We hit up Suhas, who just got off the plan from San Jose back to Salt Lake. We drove to pick him and to hang out. Though bars are open in Salt Lake, there were queues every outside bar/restaurant. After almost one hour of walking and waiting, we switched plans from steak house to pub food. 
+
+The next day we woke up with no rush, since we had already changed our plan from going straight to Omaha, to Denver. We are going to stay in Denver for one night before we make our last leg of travel. 
+
+<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/map-updated.png?raw=true" />
