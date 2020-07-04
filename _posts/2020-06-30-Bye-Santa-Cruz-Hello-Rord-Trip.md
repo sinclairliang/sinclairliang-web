@@ -152,3 +152,23 @@ How strange things can happen in particular times, this time I am leaving Califo
 When the Colorado sun was shining on me I was already picturing myself in the bar that night, with the gang, just talk and have fun.
 
 <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/denverSun.jpg?raw=true" />
+
+Denver was already calling me like a promised land. 
+
+<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/denverExit.jpg?raw=true" />
+
+When we parked next the  dive bar it was already close to 10 pm. Colin and I passed the bottles in the parking while Brandon and Nick eating their drive-through fast food. It had been more than a year since I saw Alyzsha, she had been going to Medical school in Arizona and now finally moved back home to Colorado. The world is big but life is bigger I told her we would meet again, how would I have ever thought it will be a beat dive bar in Denver? 
+
+
+<p>
+    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/denverNight1.jpg?raw=true" />
+    <em>2020 Grads</em>
+</p>
+
+
+<p>
+    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/denverNight2.jpg?raw=true" />
+    <em>the Gang</em>
+</p>
+
+
