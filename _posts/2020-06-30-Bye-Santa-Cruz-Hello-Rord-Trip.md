@@ -177,6 +177,7 @@ We hung out a bit, hopping from bar to bar. Not everyone was like us, with nothi
 
 The next morning I woke up with a huge headache, I must have drunk so much the night before. The last memory I had from the previous night we drove to the wrong hotel and it took us another 30 minutes to get back to the one where we actually had a room.
 
+### Nebr.
 I popped two aspirins and off we go. How I wish I could stay in denver longer, but we gotta move! By 2 pm we hit Fort Morgan and by 5 we were driving pass the last town in Colorado before we crossed the state line. We would be in Omaha by 1 am, there was another state to cross before making the final destination. 
 
 <p>
