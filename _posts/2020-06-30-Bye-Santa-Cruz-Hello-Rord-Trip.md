@@ -184,3 +184,16 @@ I popped two aspirins and off we go. How I wish I could stay in denver longer, b
     <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/Nebraska.jpg?raw=true" />
     <em>At the State Line</em>
 </p>
+
+Here we are, we only had six more hours to go but first we need to get champagne to actually celebrate our graduation and my moving into a new apartment. We stopped at the Walmart in Kearney to buy things we would need for the house since they were closing in 30 minutes. We kept on driving for another 2 hours until we got to Lincoln, where we would make one more stop before Omaha. We found a sports pub to eat. Colin was really getting into Guinness in those days, so that was his go-to. While we were waiting for drinks and food we were told they could not run our cards because they are out-of-state and vertical. So it was a sober night until we got to my place.
+
+Once we got off the exit to the city, the quiet city at night unfolded itself before us. We got to the apartment around 1 am, the key and the lease was already on the kitchen counter. We brought alcohol up and set up the TV and a mattress so that we could have a proper bros night. We popped the champagne, the cork hit the celling like a gun fired across the street. We were all just sitting down, in this empty house which I now call home. Empty and new, just drinking and streaming a movie. 
+
+It was a fine night, a warm night, a windy night, a wine-drinking night, a moony night, and a night to hug your bros and talk and laugh and be heavengoing. The sun came out as we were dozing off, it was probably already 5 or 6 in the morning, we could hear the birds chirping. 
+
+The world is big but life is bigger. It's the too-huge world vaulting us, and it's good-bye. But we lean forward to the next crazy venture beneath the skies.
+
+
+### Acknowledgements
+
+Special thanks to Grace R., Arielle S., Curry X., John N., Leo Y., Sophie K., Brandon L., Nick H., Colin M. and Alyzsha M.
