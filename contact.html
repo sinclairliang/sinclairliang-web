@@ -57,7 +57,10 @@ titles:
         src="https://sinclairliang.substack.com/embed"
         frameborder="0"
         scrolling="no"
-      ></iframe>
+      >
+      </iframe>
+      <p>My GPG
+      Key fingerprint = 6781 9B34 3B2A B70D ED93  2087 2C64 64AF 2A8E 4C02</p>
     </div>
     <div class="grid">
       <div class="cell cell--12" style="margin-bottom: 100px;"></div>
@@ -128,17 +131,10 @@ titles:
                 name="message"
                 cols="30"
                 rows="10"
-                placeholder="Enter your message here ..."
-                required
+                required placeholder="Enter your message here ..."
               >
               </textarea>
               <div class="left">
-                {% comment %}
-                <div
-                  class="g-recaptcha"
-                  data-sitekey="6LdSYLkUAAAAADkK1ZVJgdBVcEHq1lE02W3IUfvD"
-                ></div>
-                {% endcomment %}
                 <input type="submit" value="Submit" style="border-radius: 0;" />
               </div>
             </form>
@@ -196,6 +192,7 @@ titles:
         </div>
       </div>
     </div>
+
     <script>
       {%- include scripts/common.js -%}
     </script>
