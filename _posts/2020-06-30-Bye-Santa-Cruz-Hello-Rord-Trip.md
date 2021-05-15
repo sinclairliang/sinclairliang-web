@@ -149,7 +149,7 @@ Denver has always been a dream place for some strange reason, which I can't elab
 
 How strange things can happen in particular times, this time I am leaving California and going East. We left the State of Wyoming with a souvenir, a speed ticket. The sun was setting as we were zooming into Denver. Alyzsha, who I briefly met last year in Santa Cruz, now lives back in Denver. So I messaged her to hang and get a few beer with us that night, she picked a place, a dive bar. 
 
-When the Colorado sun was shining on me I was already picturing myself in the bar that night, with the gang, just talk and have fun. We never run out of things to talk about or to explore. There are just so many things to keep out mind curious.
+When the Colorado sun was shining on me I was already picturing myself in the bar that night, with the gang, just talk and have fun. We never run out of things to talk about or to explore. There are just so many things to keep our mind curious.
 
 <div align="center">
     <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/denverSun.jpg?raw=true" width="60%"/>
