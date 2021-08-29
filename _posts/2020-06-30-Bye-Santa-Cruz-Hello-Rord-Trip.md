@@ -12,7 +12,7 @@ I first met Colin M. not long before quarantine happened in California...For the
 
 This was our original plan, according to which we would stay in Salt Lake City for two nights and then drive all the way to Omaha.
 
-<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/original-map.png?raw=true" />
+<img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/original-map.png?raw=true" />
 
 ### My Last Day in Santa Cruz
 
@@ -20,7 +20,7 @@ Despite of finishing my last essay in Advanced Ethics a couple days early, I sti
 
 I had not started packing at the time yet, at around 9 pm. Arielle and I drove to the West Cliff to pick up Curry and then Nick to my house. We then started drinking. It was bitter sweet because I knew it was probably my last time hanging out with them all together. While we were drinking I started packing, which actually lasted longer then the party. The party ended relatively early because everyone was already tired from this dreadful quarter and finals week. People started leaving around midnight. I spent the next 4 hours putting my 4 years of college stories into 6 boxes, two duffle bags and a big suitcase.
 
-<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/Santa-Cruz-Party.jpg?raw=true" />
+<img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/Santa-Cruz-Party.jpg?raw=true" />
 
 ### The Day We Left
 
@@ -29,14 +29,14 @@ Sophie K. Sophie came to say good bye for the last time. We were in the library 
 
 It turned out I couldn't fit all my boxes into his Chevrolet so I had to mail them via USPS and only kept some stuff with me in the car. So we quickly drove to USPS and mailed some boxes.
 
-<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/post-office.jpg?raw=true" />
+<img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/post-office.jpg?raw=true" />
 
 We then rushed back home and waited for Nick. Leo and Colin was already helping Nick move his project to the Homeless Garden and on their way back. When everyone was back to my house, the hub before we went different ways.  
 
 We all wanted to take a picture before I leave this place for ever, who knows when I will come back to this hippie town again?
 
 
-<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/groupPic_house.jpg?raw=true" />
+<img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/groupPic_house.jpg?raw=true" />
 
 We cleaned up the last bit of my stuff in the house. I then had only one pillow and one comforter left. I put threw them out and yelled: "Bye Santa Cruz, bye college."
 
@@ -49,18 +49,18 @@ Right before we got to my house we saw this super slant road. We were amazed. It
 
 
 <p>
-    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/SF0.jpg?raw=true" />
+    <img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/SF0.jpg?raw=true" />
     <em>Nick H.</em>
 </p>
 
 
 <p>
-    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/SF1.jpg?raw=true" />
+    <img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/SF1.jpg?raw=true" />
     <em>Nick H., Brandon L. & Colin M.</em>
 </p>
 
 <p>
-    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/SF2.jpg?raw=true" />
+    <img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/SF2.jpg?raw=true" />
     <em>Us</em>
 </p>
 
@@ -71,12 +71,12 @@ There we stood at the end of this continent...no more land... only the Pacific i
 
 Once we crossed the Bay Bridge, Central Valley heat wrapped us around in the car. We filled our journey to Davis with jokes and anecdotes about people we met during college. At around 6 pm we approached Davis, Calif. Colin suggested to have dinner there. Since none of us was familiar with Davis, we set the Woodstock's as our destination so that we can wander around Davis from there. Nick was the one that had the wheel as we were approaching Davis, and I, was the one holding the GPS. This is the road sign I saw and Nick asked me which direction to take. I said: "Downtown." Lol
 
-<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/Davis-Sign.png?raw=true" />
+<img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/Davis-Sign.png?raw=true" />
 
 We ended up filling up our empty stomachs in Carl Jr's because they have vegan options. 
 
 <p>
-    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/After-Davis.jpg?raw=true" />
+    <img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/After-Davis.jpg?raw=true" />
     <em>After Junk Food</em>
 </p>
 
@@ -86,24 +86,24 @@ After Davis, Brandon was also getting close to finish his work for the day and f
 
 After a few games I dozed off, when I woke up again we had already crossed the state line. There we were the great state of Nevada. It was awfully windy in Reno, chillier than the Bay Area. 
 
-<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/reno.jpg?raw=true" />
+<img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/reno.jpg?raw=true" />
 
 
  We stopped at a parking lot of Costco. As we were walking in that Costco to navigate to the bathroom, we were amazed how few people were wearing facial masks during a pandemic. Colin M. had just turned 21 not for long and had not been to a Casino. So we were determined to take a side quest to let Colin M. experience the Reno experience. We found the closet casino and drove there. Getting to the destination was our second priority, there was just so much to see, to feel and to experience. 
 
 <p>
-    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/casino.jpg?raw=true" />
+    <img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/casino.jpg?raw=true" />
     <em>Nick H. & Colin M. Walking to the Casino</em>
 </p>
 
 
 <p>
-    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/casino1.jpg?raw=true" />
+    <img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/casino1.jpg?raw=true" />
     <em>Us & Two Girls in the Casino</em>
 </p>
 
 <p>
-    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/casino2.jpg?raw=true" />
+    <img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/casino2.jpg?raw=true" />
     <em>A Proud UCSC Graduate's First Loss to the Casino</em>
 </p>
 
@@ -111,10 +111,10 @@ I contributed $2 to the Casino and Colin $1. We walked out and kept rolling unde
 
 We got to Gold Diggers Saloon and Grub House around 11:30 pm. I was again amazed how little people gave a damn about wearing facial masks here, compared to that in California. We walked in, the bartender, a very nice and lovely lady asked me if I wanted something to drink. A guy approached us and offered all of us beer. Never would I say no to free cold beer, then we started drinking. 
 
-<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/lovelock.jpg?raw=true" />
+<img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/lovelock.jpg?raw=true" />
 
 <p>
-    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/wings.jpg?raw=true" />
+    <img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/wings.jpg?raw=true" />
     <em>We were All Beat</em>
 </p>
 
@@ -126,14 +126,14 @@ Salt Lake City, a city of sprinklers.
 When we woke up it was already bright and sunny. That was one of the strangest moment in my life. I woke up in a remote cheap hotel I'd never seen, far from home haunted and tired with travel. I did not know who I was or who my friends were for a few strange seconds. After we took care of our personal hygienes, we were hungry again. We headed to a mall in downtown, close to the Mormon Temple we wanted to visit. We walked around the mall as kids were amazed by countless toys. It was our first time seeing so many people congregating under one roof in months.
 
 <p>
-    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/mall.jpg?raw=true" />
+    <img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/mall.jpg?raw=true" />
     <em>Colin M. & Nick H.</em>
 </p>
 
 The Mormon Church was was closed due to Covid, compounded with construction. After talking to some mormon girls, we decided to hike on Ensign Peak Trail. People told us it would take 40 minutes, but we were proud UCSC graduates so it only barely 20 minutes for us to get to the top. We were on a hill overlooking Salt Lake City's neat patterns of streets and buildings. 
 
 <p>
-    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/ensign.jpg?raw=true" />
+    <img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/ensign.jpg?raw=true" />
     <em>Ensign Peak</em>
 </p>
 
@@ -141,7 +141,7 @@ Nick, Colin and I are all 2020 grads from UCSC. Our commencement was happening w
 
 The next day we woke up with no rush, since we had already changed our plan from going straight to Omaha, to Denver. We are going to stay in Denver for one night before we make our last leg of travel. 
 
-<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/map-updated.png?raw=true" />
+<img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/map-updated.png?raw=true" />
 
 ### Denver
 
@@ -152,24 +152,24 @@ How strange things can happen in particular times, this time I am leaving Califo
 When the Colorado sun was shining on me I was already picturing myself in the bar that night, with the gang, just talk and have fun. We never run out of things to talk about or to explore. There are just so many things to keep our mind curious.
 
 <div align="center">
-    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/denverSun.jpg?raw=true" width="60%"/>
+    <img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/denverSun.jpg?raw=true" width="60%"/>
 </div>
 
 Denver was already calling me like a promised land. 
 
-<img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/denverExit.jpg?raw=true" />
+<img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/denverExit.jpg?raw=true" />
 
 When we parked next the  dive bar it was already close to 10 pm. Colin and I passed the bottles in the parking while Brandon and Nick eating their drive-through fast food. It had been more than a year since I saw Alyzsha, she had been going to Medical school in Arizona and now finally moved back home to Colorado. The world is big but life is bigger I told her we would meet again, how would I have ever thought it will be a beat dive bar in Denver? 
 
 
 <p>
-    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/denverNight1.jpg?raw=true" />
+    <img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/denverNight1.jpg?raw=true" />
     <em>2020 Grads</em>
 </p>
 
 
 <p>
-    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/denverNight2.jpg?raw=true" />
+    <img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/denverNight2.jpg?raw=true" />
     <em>the Gang</em>
 </p>
 
@@ -181,7 +181,7 @@ The next morning I woke up with a huge headache, I must have drunk so much the n
 I popped two aspirins and off we go. How I wish I could stay in denver longer, but we gotta move! By 2 pm we hit Fort Morgan and by 5 we were driving pass the last town in Colorado before we crossed the state line. We would be in Omaha by 1 am, there was another state to cross before making the final destination. 
 
 <p>
-    <img src="https://github.com/sinclairliang/sinclairliang/blob/master/_posts/roadtrip/Nebraska.jpg?raw=true" />
+    <img src="https://github.com/sinclairliang/sinclairliang-web/blob/master/_posts/roadtrip/Nebraska.jpg?raw=true" />
     <em>At the State Line</em>
 </p>
 
