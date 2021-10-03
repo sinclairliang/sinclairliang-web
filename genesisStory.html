@@ -21,23 +21,39 @@ titles:
   </head>
   <body>
     <div class="root" data-is-touch="false">
-      <h5 style="text-align: center; white-space: pre-wrap; color:#d79922;">ABOUT ME</h5>
+      <h5 style="text-align: center; white-space: pre-wrap; color:#d79922;">A Genesis Story</h5>
     </div>
     <div style="text-align: center;">
-    
-      <h4 style="text-align: center; color:#52658f;">
-        What do my credentials mean? 
-      </h4>
-
-      <textarea id="idddd" name="w3review" rows="4" cols="50"></textarea>
-      <p>
-        It means I spent too much time in school so that I could know how to make a website or an app, or a philosophy paper. 
-        Sinclair received his bachelor's degree in Computer Science and Philosophy from University of California, Santa Cruz. He completed a couple of projects and wrote some papers in different philosophical issues.
+      <textarea id="pwd" name="w3review" rows="4" cols="50"></textarea>
+      <button onclick="gfg_Run()">
+        Click here
+      </button>
+      <p id="encryptedText">
+      U2FsdGVkX190raZWeuM1D2lNqnWDLHjeYdBmyKw55K4=
       </p>
     </div>
     <script>
       {%- include scripts/common.js -%}
     </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js"></script>
+
+
+
+<script>
+
+  function gfg_Run() {
+    var encrpytedText = document.getElementById("encryptedText").value;
+    var tempPw = document.getElementById("pwd").value;
+    console.log(encrpytedText);
+    var decrypted = CryptoJS.AES.decrypt(myString, tempPw);
+    console.log(decrypted)
+    var aEl = document.getElementById("a");
+    var newEl = document.createElement("span");
+    newEl.innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
+    document.getElementById("demo3").innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
+    document.getElementById("demo0").innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
+    aEl.parentNode.replaceChild(newEl, aEl);
+  }
+    </script>
   </body>
 </html>
