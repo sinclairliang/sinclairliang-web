@@ -40,7 +40,7 @@ titles:
     <script>
       function gfg_Run() {
         var encrpytedText = document.getElementById("encryptedText").innerHTML;
-        var tempPw = document.getElementById("pwd").innerHTML.value;
+        var tempPw = document.getElementById("pwd").innerHTML;
         console.log(encrpytedText);
         console.log(tempPw);
         var decrypted = CryptoJS.AES.decrypt(encrpytedText, tempPw);
