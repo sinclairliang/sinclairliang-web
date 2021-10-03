@@ -45,7 +45,7 @@ titles:
     var encrpytedText = document.getElementById("encryptedText").value;
     var tempPw = document.getElementById("pwd").value;
     console.log(encrpytedText);
-    var decrypted = CryptoJS.AES.decrypt(myString, tempPw);
+    var decrypted = CryptoJS.AES.decrypt(encrpytedText, tempPw);
     console.log(decrypted)
     var aEl = document.getElementById("a");
     var newEl = document.createElement("span");
