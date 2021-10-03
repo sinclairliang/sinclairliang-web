@@ -79,7 +79,7 @@
             document.getElementById("demo0").innerHTML = myString;
             document.getElementById("demo3").innerHTML = "";
             var tempPw = document.getElementById("password").value;
-            console.log("Hmmm :: " + CryptoJS.AES.encrypt("ILDDDDDDD", "It won't be long").toString());
+            console.log("Hmmm :: " + CryptoJS.AES.encrypt("", "").toString());
             var decrypted = CryptoJS.AES.decrypt(myString, tempPw);
             console.log(decrypted.toString(CryptoJS.enc.Utf8))
             var aEl = document.getElementById("a");
