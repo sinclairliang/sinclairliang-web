@@ -40,9 +40,9 @@ header:
     url: /favourite
 
   - titles:
-      en      : &EN       Contact
+      en      : &EN       Misc.
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-    url: /contact
+    url: /misc
