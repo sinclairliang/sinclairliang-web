@@ -42,14 +42,14 @@ titles:
         var encrpytedText = document.getElementById("encryptedText").innerHTML;
         var tempPw = document.getElementById("pwd").value;
         console.log(encrpytedText);
-        var decrypted = CryptoJS.AES.decrypt(encrpytedText, tempPw);
-        console.log(decrypted)
-        var aEl = document.getElementById("a");
-        var newEl = document.createElement("span");
-        newEl.innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
-        document.getElementById("demo3").innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
-        document.getElementById("demo0").innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
-        aEl.parentNode.replaceChild(newEl, aEl);
+        //var decrypted = CryptoJS.AES.decrypt(encrpytedText, tempPw);
+        //console.log(decrypted)
+        //var aEl = document.getElementById("a");
+        //var newEl = document.createElement("span");
+        //newEl.innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
+        //document.getElementById("demo3").innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
+        // document.getElementById("demo0").innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
+        //aEl.parentNode.replaceChild(newEl, aEl);
       }
     </script>
   </body>
