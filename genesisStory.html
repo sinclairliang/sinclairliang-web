@@ -24,12 +24,12 @@ titles:
       <h5 style="text-align: center; white-space: pre-wrap; color:#d79922;">A Genesis Story</h5>
     </div>
     <div style="text-align: center;">
-      <textarea id="pwd" name="w3review" rows="4" cols="50"></textarea>
+      <textarea id="pwd" rows="4" cols="50"></textarea>
       <button onclick="gfg_Run()">
         Click here
       </button>
       <p id="encryptedText">
-      U2FsdGVkX190raZWeuM1D2lNqnWDLHjeYdBmyKw55K4=
+        U2FsdGVkX190raZWeuM1D2lNqnWDLHjeYdBmyKw55K4=
       </p>
     </div>
     <script>
@@ -39,7 +39,7 @@ titles:
 
     <script>
       function gfg_Run() {
-        var encrpytedText = document.getElementById("encryptedText").value;
+        var encrpytedText = document.getElementById("encryptedText").innerHTML;
         var tempPw = document.getElementById("pwd").value;
         console.log(encrpytedText);
         var decrypted = CryptoJS.AES.decrypt(encrpytedText, tempPw);
