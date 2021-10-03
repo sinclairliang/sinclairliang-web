@@ -37,23 +37,20 @@ titles:
     </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js"></script>
 
-
-
-<script>
-
-  function gfg_Run() {
-    var encrpytedText = document.getElementById("encryptedText").value;
-    var tempPw = document.getElementById("pwd").value;
-    console.log(encrpytedText);
-    var decrypted = CryptoJS.AES.decrypt(encrpytedText, tempPw);
-    console.log(decrypted)
-    var aEl = document.getElementById("a");
-    var newEl = document.createElement("span");
-    newEl.innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
-    document.getElementById("demo3").innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
-    document.getElementById("demo0").innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
-    aEl.parentNode.replaceChild(newEl, aEl);
-  }
+    <script>
+      function gfg_Run() {
+        var encrpytedText = document.getElementById("encryptedText").value;
+        var tempPw = document.getElementById("pwd").value;
+        console.log(encrpytedText);
+        var decrypted = CryptoJS.AES.decrypt(encrpytedText, tempPw);
+        console.log(decrypted)
+        var aEl = document.getElementById("a");
+        var newEl = document.createElement("span");
+        newEl.innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
+        document.getElementById("demo3").innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
+        document.getElementById("demo0").innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
+        aEl.parentNode.replaceChild(newEl, aEl);
+      }
     </script>
   </body>
 </html>
