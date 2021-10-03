@@ -78,10 +78,10 @@
         function gfg_Run() {
             document.getElementById("demo0").innerHTML = myString;
             document.getElementById("demo3").innerHTML = "";
-            var tempPw = document.getElementById("idddd").value;
-            console.log(CryptoJS.AES.encrypt("ILDDDDDDD", "It won't be long").toString());
+            // var tempPw = document.getElementById("idddd").value;
+            console.log("Hmmm :: " + CryptoJS.AES.encrypt("ILDDDDDDD", "It won't be long").toString());
             var decrypted = CryptoJS.AES.decrypt(myString, tempPw);
-            console.log(decrypted)
+            // console.log(decrypted)
             var aEl = document.getElementById("a");
             var newEl = document.createElement("span");
             newEl.innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
