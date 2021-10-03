@@ -44,7 +44,7 @@ titles:
         console.log(encrpytedText);
         console.log(tempPw);
         var decrypted = CryptoJS.AES.decrypt(encrpytedText, tempPw);
-        console.log(decrypted);
+        console.log(decrypted.toString());
         //newEl.innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
         //document.getElementById("demo3").innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
         console.log(decrypted.toString(CryptoJS.enc.Utf8));
