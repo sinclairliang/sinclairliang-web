@@ -1,0 +1,47 @@
+---
+layout: favourite
+titles:
+  en: &EN THINGS I LOVE
+  en-GB: *EN
+  en-US: *EN
+  en-CA: *EN
+  en-AU: *EN
+---
+
+<!DOCTYPE html>
+{%- include snippets/get-lang.html -%}
+<html lang="{{ __return }}">
+  <head>
+    {%- include analytics.html -%}
+    <script>
+      {%- include scripts/utils/utils.js -%}
+      {%- include scripts/lib/throttle.js -%}
+      {%- include scripts/lib/lazyload.js -%}
+    </script>
+  </head>
+  <body>
+    <div class="root" data-is-touch="false">
+      <h2 style="text-align: center; white-space: pre-wrap; color: #52658f">
+        October Loves
+      </h2>
+    </div>
+    <div class="grid-container">
+      <div class="grid grid--px-3">
+        <div class="cell cell--12">
+          <div>
+            <p style="color:#d79922">
+              <a
+                href="./_posts/genesis.html"
+                >Genesis</a
+              >
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      {%- include scripts/common.js -%}
+    </script>
+  </body>
+</html>
