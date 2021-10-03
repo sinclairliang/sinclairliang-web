@@ -46,13 +46,13 @@ titles:
         console.log(tempPw);
         var decrypted = CryptoJS.AES.decrypt(encrpytedText, tempPw);
         var decryptedString = decrypted.toString(CryptoJS.enc.Utf8);
-        if(decryptedString == null) {
-          document.getElementById("encryptedText").innerHTML = encrpytedText;
+        if(decryptedString) {
+          console.log(decrypted.toString(CryptoJS.enc.Utf8).value);
+          document.getElementById("encryptedText").innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
         }
+        document.getElementById("encryptedText").innerHTML = encrpytedText;
         //newEl.innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
         //document.getElementById("demo3").innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
-        console.log(decrypted.toString(CryptoJS.enc.Utf8).value);
-        document.getElementById("encryptedText").innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
       }
     </script>
   </body>
