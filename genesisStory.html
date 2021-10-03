@@ -38,9 +38,9 @@ titles:
     <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js"></script>
 
     <script>
-      var encrpytedText = document.getElementById("encryptedText").innerHTML;
+      var encrpytedText = document.getElementById("encryptedText").innerHTML.trim();
       function gfg_Run() {
-        var tempPw = document.getElementById("pwd").value;
+        var tempPw = document.getElementById("pwd").value.trim();
         console.log(encrpytedText);
         console.log(tempPw);
         var decrypted = CryptoJS.AES.decrypt(encrpytedText, tempPw);
