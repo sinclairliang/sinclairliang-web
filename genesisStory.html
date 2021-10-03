@@ -39,16 +39,20 @@ titles:
 
     <script>
       var encrpytedText = document.getElementById("encryptedText").innerHTML.trim();
+      var copyBackUp = encrpytedText;
       function gfg_Run() {
-        document.getElementById("encryptedText").innerHTML = encrpytedText;
         var tempPw = document.getElementById("pwd").value.trim();
         var decrypted = CryptoJS.AES.decrypt(encrpytedText, tempPw);
-        if(decrypted) {
-          var decryptedString = decrypted.toString(CryptoJS.enc.Utf8);
-          console.log(decrypted.toString(CryptoJS.enc.Utf8).value);
-          document.getElementById("encryptedText").innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
+        var decryptedString = decrypted.toString(CryptoJS.enc.Utf8);
+        var flag = false; 
+        if(!decryptedString.length === 0 || decryptedString) {
+          flag = true;
         }
-        document.getElementById("encryptedText").innerHTML = encrpytedText;
+        if(flag) {
+          document.getElementById("encryptedText").innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
+        } else {
+          document.getElementById("encryptedText").innerHTML = copyBackUp;
+        }
       }
     </script>
   </body>
