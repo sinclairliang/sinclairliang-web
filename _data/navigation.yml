@@ -46,3 +46,11 @@ header:
       en-CA   : *EN
       en-AU   : *EN
     url: /misc
+
+  - titles:
+      en      : &EN       Contact
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+    url: /contact
