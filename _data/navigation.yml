@@ -39,13 +39,13 @@ header:
       en-AU   : *EN
     url: /favourite
 
-  - titles:
-      en      : &EN       Misc.
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-    url: /misc
+  # - titles:
+  #     en      : &EN       Misc.
+  #     en-GB   : *EN
+  #     en-US   : *EN
+  #     en-CA   : *EN
+  #     en-AU   : *EN
+  #   url: /misc
 
   - titles:
       en      : &EN       Contact
