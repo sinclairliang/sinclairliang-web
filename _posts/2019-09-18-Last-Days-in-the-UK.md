@@ -25,7 +25,7 @@ I am gonna miss the time wandering around on Grey Street and went in to a bar in
 
 I am also gonna miss unexpected hugs, talks before sleeps and jokes I shared, laughters exchanged. Winds in Scotland. The ten-minute sunshine once in a while. The first sip of latte in chilly September. Long walks.
 
-I am going home, babes. Let's have some damn good time back in Santa Cruz.
+I am going home. Let's have some damn good time back in Santa Cruz.
 
 <!--more-->
 
